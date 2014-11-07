@@ -1,0 +1,12 @@
+{
+    "full_name": "Chiko Rekea",
+    "title" : "Editor in chief",
+    "links": [
+      { "blog": "http://blog.com"},
+      { "Facebook": "http://facebook.com"},
+      { "Youtube": "http://youtube.com"},
+      { "podcast":"http://feedburner.com"},
+      { "twitter": "http://twitter.com"}
+
+    ]
+  }
